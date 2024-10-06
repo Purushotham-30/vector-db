@@ -1,0 +1,10 @@
+langchain
+langchain-community
+sentence-transformers
+python-dotenv
+langchain-text-splitters
+pypickle
+scikit-learn
+pdfplumber
+annoy
+gensim
